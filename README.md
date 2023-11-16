@@ -5,7 +5,7 @@ This simple React Native application provides weather information for the curren
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/mohamedatef-99/Weather-App-React-Native/assets/60486913/ee2f4639-300c-4d38-b4b4-cd34d3b2942c" alt="Demo Video" />
+  <img src="https://youtube.com/shorts/umT4NMOdVac" alt="Demo Video" />
 </p>
 
 ## Features
