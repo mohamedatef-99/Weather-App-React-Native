@@ -1,4 +1,4 @@
-# React Native Weather App
+# Weather App using React Native 
 
 This simple React Native application provides weather information for the current day, upcoming days, and city details, including weather conditions and population.
 
